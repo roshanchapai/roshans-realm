@@ -25,7 +25,7 @@ const Navbar: React.FC = () => {
             </Button>
           ))}
            <Button asChild className="bg-accent hover:bg-accent/90 text-accent-foreground">
-             <a href="mailto:your.email@example.com">Contact Me</a>
+             <a href="mailto:roshanchapai@gmail.com">Contact Me</a>
            </Button>
         </div>
          {/* Mobile Menu Button (Placeholder) */}
